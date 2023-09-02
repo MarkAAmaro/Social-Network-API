@@ -72,7 +72,7 @@ Thank you for taking an interest in my Social Network API. This project serves a
 
 ## Demo
 
-- https://youtu.be/Xmst20SZvKs)https://youtu.be/Xmst20SZvKs
+- https://www.youtube.com/watch?v=tqjsdW0kq-w
 
 
 

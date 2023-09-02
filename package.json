@@ -1,9 +1,11 @@
 {
+  
   "name": "social-network-api",
   "version": "1.0.0",
   "description": "social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list.",
   "main": "index.js",
   "scripts": {
+    "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
